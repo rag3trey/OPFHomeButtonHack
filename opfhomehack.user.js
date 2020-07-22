@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OP Forums Home Button Hack
 // @version      0.1
-// @description  Redirect OnePlus Forums to Recents instead of Recommended
+// @description  Home goes to Recent instead of Recommended.
 // @author       Baymax
 // @include        *forums.oneplus.com*
 // @exclude        *forums.oneplus.com
